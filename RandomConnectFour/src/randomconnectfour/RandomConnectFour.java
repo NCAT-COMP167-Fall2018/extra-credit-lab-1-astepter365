@@ -66,7 +66,7 @@ public class RandomConnectFour {
     }
     private static char playGame(char[][] gameBoard){
       int turn = 10;
-        return 0;
+        return 0 ;
       
     }
 }
